@@ -102,7 +102,7 @@
 
     }
     .item1{
-    background-image: url(/image-web-3-desktop.jpg);
+    background-image: url(image-web-3-desktop.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -202,7 +202,7 @@
     .item4 .img-box1{
       
       /* border: 1px solid red; */
-      background-image: url(/image-retro-pcs.jpg);
+      background-image: url(image-retro-pcs.jpg);
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -238,7 +238,7 @@
     .item4 .img-box2{
       /* height: 100vh; */
       /* border: 1px solid red; */
-      background-image: url(/image-top-laptops.jpg);
+      background-image: url(image-top-laptops.jpg);
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -247,7 +247,7 @@
     .item4 .img-box3{
       /* height: 100vh; */
       /* border: 1px solid red; */
-      background-image: url(/image-gaming-growth.jpg);
+      background-image: url(image-gaming-growth.jpg);
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
